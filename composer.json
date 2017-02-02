@@ -1,3 +1,4 @@
+
 {
     "packages": {
         "vendor/codeigniter_migration_base_generation": {
@@ -5,7 +6,7 @@
                 "name": "malutanpetronel/codeigniter_migration_base_generation",
                 "version": "dev-master",
                 "source": {
-                    "url": [https://github.com/malutanpetronel/codeigniter_migration_base_generation.git],
+                    "url": "https://github.com/malutanpetronel/codeigniter_migration_base_generation.git",
                     "type": "git",
                     "reference": "master"
                 }
