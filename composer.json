@@ -1,3 +1,8 @@
 {
-  "name": "malutanpetronel/codeigniter_migration_base_generation"
+    "name": "malutanpetronel/codeigniter_migration_base_generation"
+    "autoload": {
+        "psr-0" : {
+            "malutanpetronel\\codeigniter_migration_base_generation" : ""
+        }
+    }
 }
