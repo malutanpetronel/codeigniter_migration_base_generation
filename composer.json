@@ -1,5 +1,5 @@
 {
-	"name": "malutanpetronel/codeigniter_migration_base_generation"
+	"name": "malutanpetronel/codeigniter_migration_base_generation",
 	"type": "library",
 	"description": "A PHP class to generate initial migrations from a database, based on: liaan/codeigniter_migration_base_generation",
 	"keywords": ["php", "migrations"],
